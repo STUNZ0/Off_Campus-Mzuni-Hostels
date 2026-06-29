@@ -1,0 +1,2517 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Hostel_Name" : "Hostel_Name",
+    "Location" : "Location",
+    "Easting" : "Easting",
+    "Northing" : "Northing",
+    "Rental_Cost" : "Rental_Cost",
+    "Accormodation_Type" : "Accormodation_Type",
+    "Facilities_Available" : "Facilities_Available",
+    "Security" : "Security",
+    "Capacity" : "Capacity",
+    "Contact_Details" : "Contact_Details",
+    "Distance_to_Main_Campus" : "Distance_to_Main_Campus"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 32736,
+    "latestWkid" : 32736
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Hostel_Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Hostel_Name",
+      "length" : 50
+    },
+    {
+      "name" : "Location",
+      "type" : "esriFieldTypeString",
+      "alias" : "Location",
+      "length" : 50
+    },
+    {
+      "name" : "Easting",
+      "type" : "esriFieldTypeString",
+      "alias" : "Easting",
+      "length" : 50
+    },
+    {
+      "name" : "Northing",
+      "type" : "esriFieldTypeString",
+      "alias" : "Northing",
+      "length" : 50
+    },
+    {
+      "name" : "Rental_Cost",
+      "type" : "esriFieldTypeString",
+      "alias" : "Rental_Cost",
+      "length" : 50
+    },
+    {
+      "name" : "Accormodation_Type",
+      "type" : "esriFieldTypeString",
+      "alias" : "Accormodation_Type",
+      "length" : 50
+    },
+    {
+      "name" : "Facilities_Available",
+      "type" : "esriFieldTypeString",
+      "alias" : "Facilities_Available",
+      "length" : 100
+    },
+    {
+      "name" : "Security",
+      "type" : "esriFieldTypeString",
+      "alias" : "Security",
+      "length" : 50
+    },
+    {
+      "name" : "Capacity",
+      "type" : "esriFieldTypeString",
+      "alias" : "Capacity",
+      "length" : 50
+    },
+    {
+      "name" : "Contact_Details",
+      "type" : "esriFieldTypeString",
+      "alias" : "Contact_Details",
+      "length" : 50
+    },
+    {
+      "name" : "Distance_to_Main_Campus",
+      "type" : "esriFieldTypeString",
+      "alias" : "Distance_to_Main_Campus",
+      "length" : 50
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "Hostel_Name" : "Glory Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607908,4226",
+        "Northing" : "8736981,497",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999303909",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607908.42260000017,
+        "y" : 8736981.4969999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 2,
+        "Hostel_Name" : "Glory Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607903,4085",
+        "Northing" : "8736982,841",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999303909",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607903.4084999999,
+        "y" : 8736982.841
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 3,
+        "Hostel_Name" : "Glory Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607908,4226",
+        "Northing" : "8736981,497",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0999303909",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607902.60290000029,
+        "y" : 8736970.568
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 4,
+        "Hostel_Name" : "Chirwa Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607814,9949",
+        "Northing" : "8737098,378",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "881454821",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607814.99490000028,
+        "y" : 8737098.3780000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 5,
+        "Hostel_Name" : "White House Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607818,1852",
+        "Northing" : "8737074,148",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0888595843",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607818.18520000018,
+        "y" : 8737074.148
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 6,
+        "Hostel_Name" : "White House Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607809,4609",
+        "Northing" : "8737075,284",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0888595843",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607809.4609000003,
+        "y" : 8737075.284
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 7,
+        "Hostel_Name" : "Phiri Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607901,738",
+        "Northing" : "8737100,515",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0996076082",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607901.7379999999,
+        "y" : 8737100.5150000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 8,
+        "Hostel_Name" : "Phiri Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607901,738",
+        "Northing" : "8737100,515",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0996076082",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607889.74380000029,
+        "y" : 8737102.5460000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 9,
+        "Hostel_Name" : "Innocent Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607851,5792",
+        "Northing" : "8737140,609",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0993871938",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607851.57919999957,
+        "y" : 8737140.6089999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 10,
+        "Hostel_Name" : "Gogo Soko Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607789,9689",
+        "Northing" : "8737022,267",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0993480077",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607789.96889999975,
+        "y" : 8737022.2670000009
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 11,
+        "Hostel_Name" : "Carolyn Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607751,674",
+        "Northing" : "8737022,177",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0990865343",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607751.67399999965,
+        "y" : 8737022.1769999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 12,
+        "Hostel_Name" : "Njerenjere Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607737,662",
+        "Northing" : "8736944,48",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0984465429",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607737.66199999955,
+        "y" : 8736944.4800000004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 13,
+        "Hostel_Name" : "Njerenjere Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607732,6857",
+        "Northing" : "8736956,883",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Above 50",
+        "Contact_Details" : "0984465429",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607732.68570000026,
+        "y" : 8736956.8829999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 14,
+        "Hostel_Name" : "AThens Haven Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607713,4173",
+        "Northing" : "8736905,414",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0881771528",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607713.41729999986,
+        "y" : 8736905.4140000008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 15,
+        "Hostel_Name" : "Zaid Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607715,7744",
+        "Northing" : "8736860,838",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999320012",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607715.77440000046,
+        "y" : 8736860.8379999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 16,
+        "Hostel_Name" : "Zaid Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607707,7909",
+        "Northing" : "8736855,225",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "999320012",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607707.79090000037,
+        "y" : 8736855.2249999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 17,
+        "Hostel_Name" : "Chirongo Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607704,3054",
+        "Northing" : "8736792,975",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0993162267",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607704.30539999995,
+        "y" : 8736792.9749999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 18,
+        "Hostel_Name" : "Chirongo Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607712,5615",
+        "Northing" : "8736814,512",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0993162267",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607712.56149999984,
+        "y" : 8736814.5120000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 19,
+        "Hostel_Name" : "Chirongo Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607712,1649",
+        "Northing" : "8736794,22",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Above 50",
+        "Contact_Details" : "0993162267",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607712.16490000021,
+        "y" : 8736794.2200000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 20,
+        "Hostel_Name" : "Chirongo Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607716,8122",
+        "Northing" : "8736781,32",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0993162267",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607716.81219999958,
+        "y" : 8736781.3200000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 21,
+        "Hostel_Name" : "Park Heights Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607671,7826",
+        "Northing" : "8736693,886",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0893090083",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607671.78259999957,
+        "y" : 8736693.8859999999
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 22,
+        "Hostel_Name" : "Park Heights Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607671,7946",
+        "Northing" : "8736697,425",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "31_50",
+        "Contact_Details" : "893090083",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607671.79459999967,
+        "y" : 8736697.4250000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 23,
+        "Hostel_Name" : "Bobo Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607701,3038",
+        "Northing" : "8736712,696",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0997838240",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607701.30379999988,
+        "y" : 8736712.6960000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 24,
+        "Hostel_Name" : "Little Kassandra Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607761,8057",
+        "Northing" : "8736858,137",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999195808",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607761.80570000038,
+        "y" : 8736858.1370000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 25,
+        "Hostel_Name" : "Little Kassandra Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607767,805",
+        "Northing" : "8736857,785",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : " shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999195808",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607767.8049999997,
+        "y" : 8736857.7850000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 26,
+        "Hostel_Name" : "Chawinga Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607784,5115",
+        "Northing" : "8736798,009",
+        "Rental_Cost" : "Below 35,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0994810133",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607784.51150000002,
+        "y" : 8736798.0089999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 27,
+        "Hostel_Name" : "Chawinga Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607770,039",
+        "Northing" : "8736809,117",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0994810133",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607770.03899999987,
+        "y" : 8736809.1170000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 28,
+        "Hostel_Name" : "Chawinga Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607770,039",
+        "Northing" : "8736809,117",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0994810133",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607753.37849999964,
+        "y" : 8736786.5030000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 29,
+        "Hostel_Name" : "Nyahoda Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607786,2415",
+        "Northing" : "8736793,469",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0885167789",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607786.24149999954,
+        "y" : 8736793.4690000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 30,
+        "Hostel_Name" : "Nyahoda Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607789,5983",
+        "Northing" : "8736786,048",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0885167789",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607789.59829999972,
+        "y" : 8736786.0480000004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 31,
+        "Hostel_Name" : "Nyahoda Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607809,0658",
+        "Northing" : "8736768,066",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0885167789",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607813.60830000043,
+        "y" : 8736756.4379999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 32,
+        "Hostel_Name" : "Nyahoda Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607809,0658",
+        "Northing" : "8736768,066",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0885167789",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607809.06579999998,
+        "y" : 8736768.0659999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 33,
+        "Hostel_Name" : "Kalahai Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607813",
+        "Northing" : "8736768",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Shared/Singles",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "Above 50",
+        "Contact_Details" : "0993673554/0996336024",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607813.33660000004,
+        "y" : 8736756.3857000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 34,
+        "Hostel_Name" : "Mathando Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607815,8974",
+        "Northing" : "8736723,917",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0995399211",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607815.89740000013,
+        "y" : 8736723.9169999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 35,
+        "Hostel_Name" : "Nyagodwe Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607690,3818",
+        "Northing" : "8736517,432",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991289921",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607690.38179999962,
+        "y" : 8736517.432
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 41,
+        "Hostel_Name" : "Two Seasons Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607578,1166",
+        "Northing" : "8736548,89",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999929133",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607578.1166000003,
+        "y" : 8736548.8900000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 42,
+        "Hostel_Name" : "Eddo  Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607868,2454",
+        "Northing" : "8737899,201",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0996515233",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607868.24540000036,
+        "y" : 8737899.2009999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 43,
+        "Hostel_Name" : "Nyirenda Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607906,1533",
+        "Northing" : "8737913,448",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991889815",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607906.15330000035,
+        "y" : 8737913.4480000008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 44,
+        "Hostel_Name" : "Moyo Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607861,0896",
+        "Northing" : "8737752,693",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "888318774",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607861.0895999996,
+        "y" : 8737752.693
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 45,
+        "Hostel_Name" : "Chimaliro Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607907,504",
+        "Northing" : "8737797,877",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0998855677",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607907.50399999972,
+        "y" : 8737797.8770000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 46,
+        "Hostel_Name" : "Nzumarah Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607942,5479",
+        "Northing" : "8737836,076",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0995060291",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607942.54789999966,
+        "y" : 8737836.0759999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 48,
+        "Hostel_Name" : "Kaonga Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607928,2044",
+        "Northing" : "8737789,29",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0998456824",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607928.20440000016,
+        "y" : 8737789.2899999991
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 49,
+        "Hostel_Name" : "Karonga Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607945,7977",
+        "Northing" : "8737797,359",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0981720582",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607945.7977,
+        "y" : 8737797.3589999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 50,
+        "Hostel_Name" : "Chuma Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607847,8516",
+        "Northing" : "8737773,972",
+        "Rental_Cost" : "Below 35.000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0890158851",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607847.8515999997,
+        "y" : 8737773.9719999991
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 51,
+        "Hostel_Name" : "Mussa Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "608045,2307",
+        "Northing" : "8737904,457",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0884548175",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608045.23070000019,
+        "y" : 8737904.4570000004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 52,
+        "Hostel_Name" : "Atusume Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608144,2063",
+        "Northing" : "8738132,708",
+        "Rental_Cost" : "Below 35,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0993529283",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608144.20629999973,
+        "y" : 8738132.7080000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 53,
+        "Hostel_Name" : "Mkandawire Boys Hostel",
+        "Location" : "Lupaso",
+        "Easting" : "607952,8139",
+        "Northing" : "8738158,246",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0997789071",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607952.81390000042,
+        "y" : 8738158.2459999993
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 54,
+        "Hostel_Name" : "Ziba Hostel ",
+        "Location" : "Kang'ona",
+        "Easting" : "608923,1135",
+        "Northing" : "8738260,418",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991683693",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608923.11349999998,
+        "y" : 8738260.4179999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 56,
+        "Hostel_Name" : "Ziba Hostel ",
+        "Location" : "Kang'ona",
+        "Easting" : "608874,2291",
+        "Northing" : "8738322,295",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Above 50",
+        "Contact_Details" : "0991683693",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608874.22910000011,
+        "y" : 8738322.2949999999
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 57,
+        "Hostel_Name" : "Kapeta Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608861,3919",
+        "Northing" : "8738396,435",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0884095918",
+        "Distance_to_Main_Campus" : "Not sure"
+      },
+      "geometry" : {
+        "x" : 608861.39190000016,
+        "y" : 8738396.4350000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 58,
+        "Hostel_Name" : "Bizwick Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608786,5543",
+        "Northing" : "8738304,129",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water/WI-FI",
+        "Security" : "Availlable",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0992292242",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608786.55429999996,
+        "y" : 8738304.1290000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 59,
+        "Hostel_Name" : "Mrs Nyajembe Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608783,3983",
+        "Northing" : "8738243,094",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Availlable",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0884714041",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608783.39829999954,
+        "y" : 8738243.0940000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 60,
+        "Hostel_Name" : "Mrs Kondowe Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608716,5137",
+        "Northing" : "8738147,221",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991404075",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608716.51370000001,
+        "y" : 8738147.2210000008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 61,
+        "Hostel_Name" : "Chiwata Boys Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608653,2512",
+        "Northing" : "8738152,637",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0993725501",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608653.25119999982,
+        "y" : 8738152.6370000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 62,
+        "Hostel_Name" : "Kauta Boys Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608580,1149",
+        "Northing" : "8738142,271",
+        "Rental_Cost" : "Below 35,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0995303066",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608580.11490000039,
+        "y" : 8738142.2709999997
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 63,
+        "Hostel_Name" : "Zingiri Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608548,7299",
+        "Northing" : "8738375,393",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0990014191",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608548.72989999969,
+        "y" : 8738375.3929999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 64,
+        "Hostel_Name" : "Shupie Mumba Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608447,2296",
+        "Northing" : "8738207,313",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0884211667",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608447.2296000002,
+        "y" : 8738207.3129999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 65,
+        "Hostel_Name" : "Paris Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608289,8214",
+        "Northing" : "8738598,347",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991823376",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608289.82139999978,
+        "y" : 8738598.3469999991
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 66,
+        "Hostel_Name" : "Pachalo Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608356,0972",
+        "Northing" : "8738357,807",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0997097408",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608356.09719999973,
+        "y" : 8738357.807
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 67,
+        "Hostel_Name" : "Chinula Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608401,5413",
+        "Northing" : "8738405,924",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "099801672/992568149",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608401.54129999969,
+        "y" : 8738405.9240000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 68,
+        "Hostel_Name" : "New Mwandira's Hostel",
+        "Location" : "Kang'ona",
+        "Easting" : "608954,5109",
+        "Northing" : "8738189,863",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0883136372",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608954.51090000011,
+        "y" : 8738189.8629999999
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 69,
+        "Hostel_Name" : "Chiumia Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607668,8433",
+        "Northing" : "8736280,289",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0884602454",
+        "Distance_to_Main_Campus" : "3-4km"
+      },
+      "geometry" : {
+        "x" : 607668.84329999983,
+        "y" : 8736280.2890000008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 70,
+        "Hostel_Name" : "Singini Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608404,0943",
+        "Northing" : "8737719,315",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "31_50",
+        "Contact_Details" : "0888174748",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608404.0943,
+        "y" : 8737719.3149999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 71,
+        "Hostel_Name" : "Nyasato Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608448,7068",
+        "Northing" : "8737684,326",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "31_50",
+        "Contact_Details" : "0996769408",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608448.70679999981,
+        "y" : 8737684.3259999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 72,
+        "Hostel_Name" : "Pakaya Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608488,3294",
+        "Northing" : "8737784,827",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0999514989",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608488.32940000016,
+        "y" : 8737784.8269999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 73,
+        "Hostel_Name" : "Anovin Girls Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608501,7624",
+        "Northing" : "8737788,652",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Guard/Fence",
+        "Capacity" : "Above 50",
+        "Contact_Details" : "0991136295",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608501.76240000036,
+        "y" : 8737788.6520000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 74,
+        "Hostel_Name" : "Singini Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608509,5255",
+        "Northing" : "8737730,012",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0993599427",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608509.52550000045,
+        "y" : 8737730.0120000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 75,
+        "Hostel_Name" : "Transmitter Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608513,097",
+        "Northing" : "8737689,856",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991578895",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608527.67640000023,
+        "y" : 8737709.8220000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 76,
+        "Hostel_Name" : "Transmitter Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608527,6764",
+        "Northing" : "8737709,822",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991578895",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608513.09700000007,
+        "y" : 8737689.8560000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 77,
+        "Hostel_Name" : "Singin  Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608607,5277",
+        "Northing" : "8737674,38",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0881192520/996385597/992842555",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608607.52770000044,
+        "y" : 8737674.3800000008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 78,
+        "Hostel_Name" : "Trinity and Tinache Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608685,77",
+        "Northing" : "8737678,7",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0994255980",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608685.76999999955,
+        "y" : 8737678.6999999993
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 79,
+        "Hostel_Name" : "Trinity and Tinache Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608697,4065",
+        "Northing" : "8737667,767",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0994255980",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608697.40649999958,
+        "y" : 8737667.7670000009
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 80,
+        "Hostel_Name" : "Castle Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608905,5006",
+        "Northing" : "8736950,092",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water/security",
+        "Security" : "Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999700407",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608905.50059999991,
+        "y" : 8736950.0920000002
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 81,
+        "Hostel_Name" : "Castle Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608906,4184",
+        "Northing" : "8736963,139",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water/security",
+        "Security" : "Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999700407",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608906.41839999985,
+        "y" : 8736963.1390000004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 82,
+        "Hostel_Name" : "Kondowe Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608880,6161",
+        "Northing" : "8736852,527",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991624233",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608880.61610000022,
+        "y" : 8736852.5270000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 83,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608951,0954",
+        "Northing" : "8736884,133",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608951.09539999999,
+        "y" : 8736884.1329999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 84,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608940,2206",
+        "Northing" : "8736894,345",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608940.22059999965,
+        "y" : 8736894.3450000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 85,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608945,2892",
+        "Northing" : "8736908,815",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608945.28920000046,
+        "y" : 8736908.8149999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 87,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608965,7054",
+        "Northing" : "8736912,947",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Fence",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608944.0867999997,
+        "y" : 8736908.1559999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 88,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608963,1835",
+        "Northing" : "8736909,306",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608965.70540000033,
+        "y" : 8736912.9470000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 89,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608971,5334",
+        "Northing" : "8736894,569",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608971.53340000007,
+        "y" : 8736894.5690000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 90,
+        "Hostel_Name" : "Kondowe Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608870,5869",
+        "Northing" : "8736854,884",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Fence",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991624233",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608870.58690000046,
+        "y" : 8736854.8839999996
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 91,
+        "Hostel_Name" : "Kondowe  Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608810,7217",
+        "Northing" : "8736863,937",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Gate",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991624233",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608810.72169999965,
+        "y" : 8736863.9370000008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 92,
+        "Hostel_Name" : "Kondowe  Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608793,8437",
+        "Northing" : "8736841,767",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991624233",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608813.20540000033,
+        "y" : 8736856.5189999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 93,
+        "Hostel_Name" : "Kondowe  Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608822,2557",
+        "Northing" : "8736855,05",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991624233",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608822.25569999963,
+        "y" : 8736855.0500000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 94,
+        "Hostel_Name" : "Mvula Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608756,1382",
+        "Northing" : "8736854,393",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0884616898",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608756.13819999993,
+        "y" : 8736854.3929999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 96,
+        "Hostel_Name" : "Mvula Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608783,6123",
+        "Northing" : "8736848,769",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0884616898",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608783.61230000015,
+        "y" : 8736848.7689999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 97,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608717,4598",
+        "Northing" : "8736837,938",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608717.4598000003,
+        "y" : 8736837.9379999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 98,
+        "Hostel_Name" : "Kumwenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608682,8417",
+        "Northing" : "8736828,326",
+        "Rental_Cost" : "Below 35,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0880858118",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608682.84169999976,
+        "y" : 8736828.3259999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 99,
+        "Hostel_Name" : "Nyasulu Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608674,0623",
+        "Northing" : "8736813,426",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0983734675",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608674.06230000034,
+        "y" : 8736813.4260000009
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 100,
+        "Hostel_Name" : "Nyasulu Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608647,0071",
+        "Northing" : "8736813,962",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0983734675",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608647.00710000005,
+        "y" : 8736813.9619999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 101,
+        "Hostel_Name" : "Nyasulu Hostels ",
+        "Location" : "Luwinga",
+        "Easting" : "608632,3",
+        "Northing" : "8736820,205",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0983734675",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608632.29999999981,
+        "y" : 8736820.2050000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 102,
+        "Hostel_Name" : "Nyasulu Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608639,953",
+        "Northing" : "8736824,824",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0983734675",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608639.95299999975,
+        "y" : 8736824.8239999991
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 103,
+        "Hostel_Name" : "Mgwadira Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608560,7317",
+        "Northing" : "8736789,044",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0888806692",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608560.73170000035,
+        "y" : 8736789.0439999998
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 104,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608528,2006",
+        "Northing" : "8736751,776",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608528.2006000001,
+        "y" : 8736751.7760000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 105,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608523,6352",
+        "Northing" : "8736756,658",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608523.63520000037,
+        "y" : 8736756.6579999998
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 106,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608526,6851",
+        "Northing" : "8736786,949",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "31_50",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608526.68510000035,
+        "y" : 8736786.9489999991
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 107,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608523,0494",
+        "Northing" : "8736776,677",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "Above 50",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608523.0493999999,
+        "y" : 8736776.6769999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 108,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608523,0426",
+        "Northing" : "8736774,686",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608523.04260000028,
+        "y" : 8736774.6860000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 111,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608520,8446",
+        "Northing" : "8736770,049",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608520.84460000042,
+        "y" : 8736770.0490000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 112,
+        "Hostel_Name" : "Nyirenda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608363,5478",
+        "Northing" : "8736714,189",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991889815",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608363.54779999983,
+        "y" : 8736714.1889999993
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "Hostel_Name" : "Marry Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608455,6644",
+        "Northing" : "8736724,599",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608460.67109999992,
+        "y" : 8736721.1539999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "Hostel_Name" : "Marry Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608460,6711",
+        "Northing" : "8736721,154",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608455.66440000013,
+        "y" : 8736724.5989999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608443,5897",
+        "Northing" : "8736734,926",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0991180883",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 608443.58970000036,
+        "y" : 8736734.9260000009
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "Hostel_Name" : "Pakaya Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608488",
+        "Northing" : "8737784",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999514989",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608899.83239999972,
+        "y" : 8736983.1779999994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "Hostel_Name" : "Bandawe Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608853,5094",
+        "Northing" : "8736964,648",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/Piped water",
+        "Security" : "Fence/CCTV",
+        "Capacity" : "10_30",
+        "Contact_Details" : "997331092",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608853.50939999986,
+        "y" : 8736964.648
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "Hostel_Name" : "Bandawe Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608854,3349",
+        "Northing" : "8736982,561",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/Piped water",
+        "Security" : null,
+        "Capacity" : null,
+        "Contact_Details" : null,
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608854.33490000013,
+        "y" : 8736982.5610000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "Hostel_Name" : "Bandawe Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608846,9058",
+        "Northing" : "8736979,601",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/Piped water",
+        "Security" : "10_30",
+        "Capacity" : "Fence",
+        "Contact_Details" : "0888570565",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608846.90579999983,
+        "y" : 8736979.6009999998
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "Hostel_Name" : "Emaggie Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607520,1972",
+        "Northing" : "8736520,556",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0888757606",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607520.19720000029,
+        "y" : 8736520.5559999999
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 123,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607770,5295",
+        "Northing" : "8736697,199",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0997838240",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607770.52950000018,
+        "y" : 8736697.1989999991
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 125,
+        "Hostel_Name" : "Mkandawire Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607753,0484",
+        "Northing" : "8736689,849",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0997838240",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607753.04839999974,
+        "y" : 8736689.8489999995
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 126,
+        "Hostel_Name" : "Mughogho Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608852",
+        "Northing" : "8737362",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Fence",
+        "Capacity" : "31_50",
+        "Contact_Details" : "0983578638",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608852,
+        "y" : 8737362
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 127,
+        "Hostel_Name" : "Warthogs Inc Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608925,0001",
+        "Northing" : "8737270",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Available",
+        "Capacity" : "31_50",
+        "Contact_Details" : "0994528877",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608925.00009999983,
+        "y" : 8737270
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 128,
+        "Hostel_Name" : "Kamanga Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "608898",
+        "Northing" : "8737377",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Single Rooms/Shared Rooms",
+        "Facilities_Available" : "Electricity/borehole water/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999957114",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608898,
+        "y" : 8737377
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 129,
+        "Hostel_Name" : "Aphiri Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607883,7784",
+        "Northing" : "8737112,852",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0996076082",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607883.77840000018,
+        "y" : 8737112.852
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 130,
+        "Hostel_Name" : "Aphiri Hostels",
+        "Location" : "Luwinga",
+        "Easting" : "607891,5243",
+        "Northing" : "8737144,675",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Shared Rooms(3+)",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0996076082",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607891.5242999997,
+        "y" : 8737144.6750000007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 131,
+        "Hostel_Name" : "Singinini Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607858,3254",
+        "Northing" : "8737167,239",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0997338870",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607858.32540000044,
+        "y" : 8737167.2390000001
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 132,
+        "Hostel_Name" : "Singinini Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607871,9902",
+        "Northing" : "8737175,154",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "Below 10",
+        "Contact_Details" : "0997338870",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 607871.99019999988,
+        "y" : 8737175.1539999992
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 133,
+        "Hostel_Name" : "Mzilahowa Girls Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "607664,1333",
+        "Northing" : "8736498,5",
+        "Rental_Cost" : "50,000_65,000",
+        "Accormodation_Type" : "Shared Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Gate",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0888617900",
+        "Distance_to_Main_Campus" : "1-2km"
+      },
+      "geometry" : {
+        "x" : 607664.13329999987,
+        "y" : 8736498.5
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 134,
+        "Hostel_Name" : "Pachalo's Hostels",
+        "Location" : "Luwinga/waterboard",
+        "Easting" : "609242",
+        "Northing" : "8737059",
+        "Rental_Cost" : "Above 65,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0999122685",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 609242,
+        "y" : 8737059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 135,
+        "Hostel_Name" : "Banda Hostel",
+        "Location" : "Luwinga",
+        "Easting" : "608915,3207",
+        "Northing" : "8738120,437",
+        "Rental_Cost" : "35,000_50,000",
+        "Accormodation_Type" : "Single Rooms",
+        "Facilities_Available" : "Electricity/piped water",
+        "Security" : "Not Available",
+        "Capacity" : "10_30",
+        "Contact_Details" : "0993583309",
+        "Distance_to_Main_Campus" : "Less than 1km"
+      },
+      "geometry" : {
+        "x" : 608915.32070000004,
+        "y" : 8738120.4370000008
+      }
+    }
+  ]
+}
